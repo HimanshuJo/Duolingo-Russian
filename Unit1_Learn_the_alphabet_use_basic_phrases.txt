@@ -1,11 +1,8 @@
-08.July.2023
-
 Мотор (Motor) -> Motor
 
 папа (papa) -> Dad
 
 мой дом (moy dom) -> my house
-
 Мой (Moy) -> My
 
 радио (radio) -> radio
@@ -15,9 +12,7 @@
 Анна, это Тим (Anna, eto Tim) -> Anna, this is Tim
 
 Это не радио, мама (Eto ne radio, mama) -> This is not radio, Mom
-
 Это радио, а не мотор (Eto radio, a ne motor) -> This is a radio, and not a motor
-
 Это мама, а не папа (Eto mama, a ne papa) -> This is Mom, not Dad
 
 Папа это не мой мотор
@@ -41,8 +36,6 @@ Da, eto moy dom
 Yes, this is my house
 
 -------
-
-09.July.2023
 
 Такси
 Taksi
@@ -85,8 +78,6 @@ net eto ne radio
 No, this is not a radio
 
 -------
-
-10.July.2023
 
 пицца
 pitstsa
@@ -139,3 +130,61 @@ this is a circus not a cafe
 это не гитара
 eto ne gitara
 this is not a guitar
+
+-------
+
+суши
+sushi
+sushi
+
+рюкзак
+ryukzak
+backpack
+
+мой рюкзак
+moy ryukzak
+my backpack
+
+багаж
+bagazh
+luggage
+
+мой багаж
+moy bagazh
+my luggage
+
+Борщ
+Borshch
+borsch
+
+Где мой борщ?
+Gde moy borshch?
+where is my borsch?
+
+картофельное пюре
+kartofel'noye pyure
+mashed potatoes
+
+я ем
+ya yem
+I eat
+
+я не ем суши
+ya ne yem sushi
+I do not eat sushi
+
+я ем борщ
+ya yem borshch
+I eat borsch
+
+я Дженни
+ya Dzhenni
+I am Jenny
+
+Дженни в метро
+Dzhenni v metro
+Jenny is in the subway
+
+Я ем картофельное пюре, а не суши
+YA yem kartofel'noye pyure, a ne sushi
+I eat mashed potatoes not sushi
