@@ -1,19 +1,42 @@
-Мотор (Motor) -> Motor
+Мотор
+Motor
+Motor
 
-папа (papa) -> Dad
+папа
+papa
+Dad
 
-мой дом (moy dom) -> my house
-Мой (Moy) -> My
+мой дом
+moy dom
+my house
 
-радио (radio) -> radio
+Мой
+Moy
+My
 
-Анна там? (Anna tam?) -> Anna is there
+радио 
+radio
+radio
 
-Анна, это Тим (Anna, eto Tim) -> Anna, this is Tim
+Анна там? 
+Anna tam?
+Anna is there
 
-Это не радио, мама (Eto ne radio, mama) -> This is not radio, Mom
-Это радио, а не мотор (Eto radio, a ne motor) -> This is a radio, and not a motor
-Это мама, а не папа (Eto mama, a ne papa) -> This is Mom, not Dad
+Анна, это Тим 
+Anna, eto Tim
+Anna, this is Tim
+
+Это не радио, мама 
+Eto ne radio, mama
+This is not radio, Mom
+
+Это радио, а не мотор 
+Eto radio, a ne motor
+This is a radio, and not a motor
+
+Это мама, а не папа 
+Eto mama, a ne papa
+This is Mom, not Dad
 
 Папа это не мой мотор
 Papa eto ne moy motor
@@ -188,3 +211,57 @@ Jenny is in the subway
 Я ем картофельное пюре, а не суши
 YA yem kartofel'noye pyure, a ne sushi
 I eat mashed potatoes not sushi
+
+-------
+
+рюкзак
+ryukzak
+backpack
+
+да это цирк
+da eto tsirk
+Yes this is a circus
+
+я не ем суши
+ya ne yem sushi
+I do not eat sushi
+
+картофельное пюре
+kartofel'noye pyure
+mashed potatoes
+
+Ты актер
+Ty akter
+Are you an actor?
+
+да это свитер
+da eto sviter
+Yes this is a sweater
+
+папа
+papa
+dad
+
+Это пюре, а вот пицца
+Eto pyure, a vot pitstsa
+This is mashed potatoes, and here is a pizza
+
+ты в метро?
+ty v metro?
+Are you in the subway?
+
+Дженни в метро
+Dzhenni v metro
+Jenny is in the metro
+
+мотора там нет
+motora tam net
+The Motor is not there
+
+Мой рюкзак в метро
+Moy ryukzak v metro
+My backpack is in the subway
+
+да это свитер
+da eto sviter
+Yes this is a sweater
