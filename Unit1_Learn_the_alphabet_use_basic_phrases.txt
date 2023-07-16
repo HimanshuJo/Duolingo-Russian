@@ -8,7 +8,7 @@ Dad
 
 мой дом
 moy dom
-my house
+My house
 
 Мой
 Moy
@@ -16,7 +16,7 @@ My
 
 радио 
 radio
-radio
+Radio
 
 Анна там? 
 Anna tam?
@@ -104,27 +104,27 @@ No, this is not a radio
 
 пицца
 pitstsa
-pizza
+Pizza
 
 кафе
 kafe
-cafe
+Cafe
 
 метро
 metro
-metro
+Metro
 
 ты в метро?
 ty v metro?
-are you in the metro?
+Are you in the metro?
 
 Где ты
 Gde ty
-where are you?
+Where are you?
 
 моя мама
 moya mama
-my mom
+My mom
 
 я в метро
 ya v metro
@@ -132,61 +132,61 @@ I am in the metro
 
 моя гитара
 moya gitara
-my guitar
+My guitar
 
 Где моя гитара
 Gde moya gitara
-where is my guitar?
+Where is my guitar?
 
 папа в кафе
 papa v kafe
-dad is in the cafe
+Dad is in the cafe
 
 да это цирк
 da eto tsirk
-yes this is a circus
+Yes this is a circus
 
 Это цирк, а не кафе
 Eto tsirk, a ne kafe
-this is a circus not a cafe
+This is a circus not a cafe
 
 это не гитара
 eto ne gitara
-this is not a guitar
+This is not a guitar
 
 -------
 
 суши
 sushi
-sushi
+Sushi
 
 рюкзак
 ryukzak
-backpack
+Backpack
 
 мой рюкзак
 moy ryukzak
-my backpack
+My backpack
 
 багаж
 bagazh
-luggage
+Luggage
 
 мой багаж
 moy bagazh
-my luggage
+My luggage
 
 Борщ
 Borshch
-borsch
+Borsch
 
 Где мой борщ?
 Gde moy borshch?
-where is my borsch?
+Where is my borsch?
 
 картофельное пюре
 kartofel'noye pyure
-mashed potatoes
+Mashed potatoes
 
 я ем
 ya yem
@@ -216,7 +216,7 @@ I eat mashed potatoes not sushi
 
 рюкзак
 ryukzak
-backpack
+Backpack
 
 да это цирк
 da eto tsirk
@@ -228,7 +228,7 @@ I do not eat sushi
 
 картофельное пюре
 kartofel'noye pyure
-mashed potatoes
+Mashed potatoes
 
 Ты актер
 Ty akter
@@ -240,7 +240,7 @@ Yes this is a sweater
 
 папа
 papa
-dad
+Dad
 
 Это пюре, а вот пицца
 Eto pyure, a vot pitstsa
@@ -265,3 +265,69 @@ My backpack is in the subway
 да это свитер
 da eto sviter
 Yes this is a sweater
+
+-------
+
+женщина
+zhenshchina
+Woman
+
+я женщина
+ya zhenshchina
+I am a woman
+
+Мальчик
+Mal'chik
+Boy
+
+я мальчик
+ya mal'chik
+I am a boy
+
+Мужчина
+Muzhchina
+Man
+
+я здесь
+ya zdes'
+I am here
+
+Вы здесь
+Vy zdes'
+You are here
+
+Это она
+Eto ona
+Is this she?
+
+Этот актер
+Etot akter
+This actor
+
+Нет
+Net
+No
+
+Мой
+Moy
+My
+
+Там
+Tam
+There
+
+Свитер
+Sviter
+Sweater
+
+Этот
+Etot
+This
+
+Мальчик не актер
+Mal'chik ne akter
+The boy is not an actor
+
+Этот мужчина здесь?
+Etot muzhchina zdes'?
+Is this man here?
