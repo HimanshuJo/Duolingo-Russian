@@ -397,3 +397,61 @@ Sweater
 рюкзак
 ryukzak
 backpack
+
+-------
+
+Хлеб
+Khleb
+Bread
+
+Мой хлеб
+Moy khleb
+My bread
+
+Мой хлеб
+Moy khleb
+Little girl
+
+Она девушка
+Ona devushka
+She is a girl
+
+Женщина
+Zhenshchina
+Woman
+
+Где ты?
+Gde ty?
+Where are you?
+
+Вы здесь
+Vy zdes'
+You are here
+
+Где они
+Gde oni
+Where are they?
+
+они женщина
+oni zhenshchina
+They are woman
+
+они в кафе
+oni v kafe
+They are in the cafe
+
+он не ест
+on ne yest
+He is not eating
+
+нет ее здесь нет
+net yeye zdes' net
+No she is not here
+
+Где этот человек
+Gde etot chelovek
+Where is this person?
+
+Этот человек ест
+Etot chelovek yest
+The person is eating
