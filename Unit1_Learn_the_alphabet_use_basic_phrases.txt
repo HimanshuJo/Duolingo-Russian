@@ -408,8 +408,8 @@ Bread
 Moy khleb
 My bread
 
-Мой хлеб
-Moy khleb
+Малышка
+Malyshka
 Little girl
 
 Она девушка
@@ -529,3 +529,37 @@ Sweater
 Или
 Ili
 Or
+
+-------
+
+Мужчина ест
+Muzhchina yest
+A man is eating
+
+Она здесь или там?
+Ona zdes' ili tam?
+Is she here or there?
+
+Мальчик ест мой хлеб
+Mal'chik yest moy khleb
+The boy is eating my bread
+
+Этот велосипед
+Etot velosiped
+This bicycle
+
+Это кофе или борщ
+Eto kofe ili borshch
+Is this coffee or borsch
+
+Рюкзак не мой
+Ryukzak ne moy
+The backpack is not mine
+
+Женщина здесь?
+Zhenshchina zdes'?
+Is the woman here?
+
+Нет, ее здесь нет
+Net, yeye zdes' net
+No, she is not here
