@@ -1,0 +1,51 @@
+пицца
+pitstsa
+Pizza
+
+кафе
+kafe
+Cafe
+
+метро
+metro
+Metro
+
+ты в метро?
+ty v metro?
+Are you in the metro?
+
+Где ты
+Gde ty
+Where are you?
+
+моя мама
+moya mama
+My mom
+
+я в метро
+ya v metro
+I am in the metro
+
+моя гитара
+moya gitara
+My guitar
+
+Где моя гитара
+Gde moya gitara
+Where is my guitar?
+
+папа в кафе
+papa v kafe
+Dad is in the cafe
+
+да это цирк
+da eto tsirk
+Yes this is a circus
+
+Это цирк, а не кафе
+Eto tsirk, a ne kafe
+This is a circus not a cafe
+
+это не гитара
+eto ne gitara
+This is not a guitar

@@ -1,0 +1,39 @@
+Такси
+Taksi
+Taxi
+
+велосипед
+velosiped
+Bicycle
+
+актер
+akter
+Actor
+
+ты дима
+ty dima
+Are you Dima?
+
+Ты актер
+Ty akter
+Are you an Actor?
+
+Вот мама
+Vot mama
+Here is mom
+
+да это свитер
+da eto sviter
+Yes, this is a sweater
+
+Вот мой свитер
+Vot moy sviter
+Here is my sweater
+
+Вот велосипед
+Vot velosiped
+Here is a bicycle
+
+нет это не радио
+net eto ne radio
+No, this is not a radio

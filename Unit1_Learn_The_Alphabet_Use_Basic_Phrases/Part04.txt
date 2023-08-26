@@ -1,0 +1,55 @@
+суши
+sushi
+Sushi
+
+рюкзак
+ryukzak
+Backpack
+
+мой рюкзак
+moy ryukzak
+My backpack
+
+багаж
+bagazh
+Luggage
+
+мой багаж
+moy bagazh
+My luggage
+
+Борщ
+Borshch
+Borsch
+
+Где мой борщ?
+Gde moy borshch?
+Where is my borsch?
+
+картофельное пюре
+kartofel'noye pyure
+Mashed potatoes
+
+я ем
+ya yem
+I eat
+
+я не ем суши
+ya ne yem sushi
+I do not eat sushi
+
+я ем борщ
+ya yem borshch
+I eat borsch
+
+я Дженни
+ya Dzhenni
+I am Jenny
+
+Дженни в метро
+Dzhenni v metro
+Jenny is in the subway
+
+Я ем картофельное пюре, а не суши
+YA yem kartofel'noye pyure, a ne sushi
+I eat mashed potatoes not sushi

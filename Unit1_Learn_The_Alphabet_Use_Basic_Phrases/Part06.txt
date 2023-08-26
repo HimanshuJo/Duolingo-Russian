@@ -1,0 +1,63 @@
+женщина
+zhenshchina
+Woman
+
+я женщина
+ya zhenshchina
+I am a woman
+
+Мальчик
+Mal'chik
+Boy
+
+я мальчик
+ya mal'chik
+I am a boy
+
+Мужчина
+Muzhchina
+Man
+
+я здесь
+ya zdes'
+I am here
+
+Вы здесь
+Vy zdes'
+You are here
+
+Это она
+Eto ona
+Is this she?
+
+Этот актер
+Etot akter
+This actor
+
+Нет
+Net
+No
+
+Мой
+Moy
+My
+
+Там
+Tam
+There
+
+Свитер
+Sviter
+Sweater
+
+Этот
+Etot
+This
+
+Мальчик не актер
+Mal'chik ne akter
+The boy is not an actor
+
+Этот мужчина здесь?
+Etot muzhchina zdes'?
+Is this man here?
